@@ -1,0 +1,24 @@
+{
+  "name": "sticky-popout-notes",
+  "version": "0.6.9",
+  "description": "Open Markdown notes as lightweight sticky pop-out windows.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "sticky-notes"
+  ],
+  "author": "BIG_GOOSE",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.25.0",
+    "obsidian": "latest",
+    "typescript": "^5.4.5"
+  }
+}

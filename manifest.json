@@ -1,0 +1,9 @@
+{
+  "id": "sticky-popout-notes",
+  "name": "Sticky Popout Notes",
+  "version": "0.6.9",
+  "minAppVersion": "1.5.0",
+  "description": "Open Markdown notes as lightweight sticky pop-out windows.",
+  "author": "BIG_GOOSE",
+  "isDesktopOnly": true
+}

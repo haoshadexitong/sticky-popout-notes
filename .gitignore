@@ -1,0 +1,25 @@
+node_modules/
+main.js
+*.zip
+*.sha256.txt
+release/
+dist/
+ObfuscatedTestVault/
+**/ObfuscatedTestVault/
+Sticky Notes/
+**/Sticky Notes/
+BUGS.md
+**/BUGS.md
+*.log
+logs/
+screenshots/
+_local_snapshots/
+.agents/
+.DS_Store
+*.bak
+*TestVault*/
+未命名.md
+menu_foot.md
+v032-sticky-controls-test.md
+粘贴的文本*
+pasted-text*
